@@ -1,5 +1,5 @@
 # data-anonymization-and-trade-offs
-Authors = Muhammad Sheeraz, Hoor Shumail, MahNoor, Ayesha Fatima
+Authors = Muhammad Sheeraz
 <br>
 This project is created to demonstrate the trade-offs between data anonymization and comparison of performance of anonymized and original dataset
 <br>
